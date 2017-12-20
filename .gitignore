@@ -1,0 +1,12 @@
+cryptoepoch.com/
+__pycache__/
+config.py
+CryptoEpoch.docx
+data-dev.sqlite
+data-dev.sqlite2
+nohup.out
+server.csr
+server.key
+server.log
+server.pid
+server.sh_
